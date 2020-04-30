@@ -3,7 +3,10 @@
 }
 
 .logo{
-    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid gold;
+    width: 20%;
+    height: 500px;
 }
 
 .honiana{
@@ -15,9 +18,19 @@ width: 49.3%;
 height: 500px;
 }
 
+.honiPic{
+border: 2px solid cyan;
+margin-left: auto;
+}
+
 .maria{
 border: 5px solid red;
 float: right;
 width: 49.3%;
 height: 500px;
+}
+
+.mariaPic{
+border: 2px solid purple; 
+margin-right: auto;
 }
