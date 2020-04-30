@@ -10,17 +10,20 @@
     width: 20%;
     height: 500px;
     float: left;
+    position: absolute;
 }
 
 .heading{
     border: 2px solid brown;
-    width: 49.3%;
+    width: 55%;
     margin-left: 20%;
     position: absolute;
     margin-top: 0px;
     float: left;
     height: 500px;
-    font-size: larger;
+    font-size: 9rem;
+    background-color: black;
+    color: red;
 }
 
 .honiana{
@@ -28,33 +31,45 @@ border: 5px solid red;
 margin-left: auto;
 margin-top: 504px;
 float: right;
-width: 49.3%;
+width: 443px;
 height: 500px;
+top: 71%;
 }
 
 .honiPic{
-/* border: 2px solid cyan; */
-margin-left: auto;
+border: 5px solid cyan;
+height: 500px;
+width: 281px;
+position: absolute;
+top: 71%;
+margin-left: 50%; 
 }
 
 .maria{
 border: 5px solid blue;
-float: right;
-width: 49.3%;
+float: lefr;
+width: 500px;
 height: 500px;
+top: 71%;
+position: absolute;
+margin-left: 251px;
 }
 
 .mariaPic{
-/* border: 2px solid purple;  */
-margin-right: auto;
+border: 5px solid purple; 
+margin-left: 0px;
+height: 500px;
+width: 243px;
+top: 71%;
+position: absolute;
 }
 
 .links{
-    border: 2px solid silver;
-    width: 25%;
-    margin-left: 69.5%;
+    border: 5px solid silver;
+    width: 23%;
+    margin-left: 75.3%;
     position: absolute;
     margin-top: 0px;
     float: left;
-    height: 500px
+    height: 493px
 }
