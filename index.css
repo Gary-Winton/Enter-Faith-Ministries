@@ -1,0 +1,18 @@
+.body{
+
+}
+
+.honiana{
+border: 5px solid blue;
+margin-left: auto;
+float: left;
+width: 49.3%;
+height: 500px;
+}
+
+.maria{
+border: 5px solid red;
+float: right;
+width: 49.3%;
+height: 500px;
+}
