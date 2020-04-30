@@ -6,14 +6,14 @@
 
 .logo{
     margin-right: auto;
-    /* border: 2px solid rgb(221, 218, 200); */
+    border: 2px solid rgb(221, 218, 200);
     width: 20%;
     height: 500px;
     float: left;
 }
 
 .heading{
-    /* border: 2px solid brown; */
+    border: 2px solid brown;
     width: 49.3%;
     margin-left: 20%;
     position: absolute;
@@ -24,9 +24,9 @@
 }
 
 .honiana{
-/* border: 5px solid blue; */
-margin-right: auto;
-margin-top: 507px;
+border: 5px solid red;
+margin-left: auto;
+margin-top: 504px;
 float: right;
 width: 49.3%;
 height: 500px;
@@ -38,7 +38,7 @@ margin-left: auto;
 }
 
 .maria{
-/* border: 5px solid red; */
+border: 5px solid blue;
 float: right;
 width: 49.3%;
 height: 500px;
