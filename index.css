@@ -2,35 +2,49 @@
 
 }
 
+
+
 .logo{
     margin-right: auto;
     border: 2px solid gold;
     width: 20%;
     height: 500px;
+    float: left;
+}
+
+.heading{
+    border: 2px solid brown;
+    width: 49.3%;
+    margin-left: 20%;
+    position: absolute;
+    margin-top: 0px;
+    float: left;
+    height: 500px;
+    font-size: larger;
 }
 
 .honiana{
-border: 5px solid blue;
-margin-left: auto;
-margin-top: auto;
-float: left;
+/* border: 5px solid blue; */
+margin-right: auto;
+margin-top: 507px;
+float: right;
 width: 49.3%;
 height: 500px;
 }
 
 .honiPic{
-border: 2px solid cyan;
+/* border: 2px solid cyan; */
 margin-left: auto;
 }
 
 .maria{
-border: 5px solid red;
+/* border: 5px solid red; */
 float: right;
 width: 49.3%;
 height: 500px;
 }
 
 .mariaPic{
-border: 2px solid purple; 
+/* border: 2px solid purple;  */
 margin-right: auto;
 }
