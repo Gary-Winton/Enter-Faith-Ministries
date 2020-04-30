@@ -48,3 +48,13 @@ height: 500px;
 /* border: 2px solid purple;  */
 margin-right: auto;
 }
+
+.links{
+    border: 2px solid silver;
+    width: 25%;
+    margin-left: 69.5%;
+    position: absolute;
+    margin-top: 0px;
+    float: left;
+    height: 500px
+}
