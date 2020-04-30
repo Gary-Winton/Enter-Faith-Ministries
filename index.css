@@ -2,9 +2,14 @@
 
 }
 
+.logo{
+    margin-left: auto;
+}
+
 .honiana{
 border: 5px solid blue;
 margin-left: auto;
+margin-top: auto;
 float: left;
 width: 49.3%;
 height: 500px;
