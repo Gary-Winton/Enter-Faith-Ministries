@@ -1,4 +1,7 @@
 .body{
+    /* border: 5px solid orange; */
+height: 890px;
+width: 99%;
 
 }
 
@@ -6,66 +9,44 @@
 
 .logo{
     margin-right: auto;
-    border: 2px solid rgb(221, 218, 200);
-    width: 20%;
-    height: 500px;
+    /* border: 2px solid purple; */
+    width: 13.2%;
+    height: 400px;
     float: left;
     position: absolute;
 }
 
 .heading{
-    border: 2px solid brown;
-    width: 55%;
-    margin-left: 20%;
+    /* border: 2px solid yellow; */
+    width: 84.5%;
+    margin-left: 13.6%;
     position: absolute;
     margin-top: 0px;
     float: left;
-    height: 500px;
+    height: 400px;
     font-size: 9rem;
     background-color: black;
     color: red;
 }
 
-.honiana{
-border: 5px solid red;
-margin-left: auto;
-margin-top: 504px;
-float: right;
-width: 443px;
-height: 500px;
-top: 71%;
+.two{
+    /* border: 5px solid gold; */
+    margin-left: auto;
+    top: 56.7%;
+    position: absolute;
 }
 
-.honiPic{
-border: 5px solid cyan;
-height: 500px;
-width: 281px;
-position: absolute;
-top: 71%;
-margin-left: 50%; 
-}
-
-.maria{
-border: 5px solid blue;
-float: lefr;
-width: 500px;
-height: 500px;
-top: 71%;
-position: absolute;
-margin-left: 251px;
-}
-
-.mariaPic{
-border: 5px solid purple; 
-margin-left: 0px;
-height: 500px;
-width: 243px;
-top: 71%;
-position: absolute;
+.h1{
+    /* border: 5px solid blueviolet; */
+    margin-left: 33.5%;
+    top: 56.7%;
+    position: absolute;
+    width: 63.75%;
+    height: 67.67%;
 }
 
 .links{
-    border: 5px solid silver;
+    /* border: 5px solid silver; */
     width: 23%;
     margin-left: 75.3%;
     position: absolute;
@@ -73,3 +54,12 @@ position: absolute;
     float: left;
     height: 493px
 }
+
+.footer{
+    height: 50px;
+    top: 70%;
+    /* border: 5px solid goldenrod; */
+    width: 99%;
+    background-color: red;
+
+    }
