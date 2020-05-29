@@ -1,0 +1,66 @@
+.logo{
+    margin-right: auto;
+    border: 2px solid purple;
+    width: 13.2%;
+    height: 250px;
+    float: left;
+    position: absolute;
+}
+
+
+.heading{
+    border: 2px solid yellow;
+    width: 86%;
+    margin-left: 13.1%;
+    position: absolute;
+    margin-top: 0px;
+    float: left;
+    height: 250px;
+    font-size: 9rem;
+    background-color: black;
+    color: red;
+    font-weight: 50;
+}
+
+.bold1{
+    border: .5px solid red;
+    width: 99.2%;
+    height: 150px;
+    top: 15.6rem;
+    position: absolute;
+}
+
+.normal{
+    border: .5px solid red;
+    width: 99.2%;
+    height: 150px;
+    top: 25.3rem;
+    position: absolute;
+}
+
+.bold2{
+    border: .5px solid yellow;
+    width: 99.2%;
+    height: 150px;
+    top: 35rem;
+    position: absolute;
+}
+
+.links{
+    border: 5px solid silver;
+    width: 23%;
+    margin-left: 75.3%;
+    position: absolute;
+    margin-top: 0px;
+    float: left;
+    height: 493px
+}
+
+.footer{
+    height: 50px;
+    top: 45rem;
+    border: 1px solid goldenrod;
+    width: 99.2%;
+    background-color: red;
+    position: absolute;
+    }

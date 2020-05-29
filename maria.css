@@ -1,0 +1,67 @@
+}.logo{
+    margin-right: auto;
+    /* border: .5px solid purple; */
+    width: 17.6%;
+    height: 261px;
+    float: left;
+    position: absolute;
+    top: 1%;
+}
+
+.heading{
+    /* border: .5px solid yellow; */
+    width: 81.5%;
+    margin-left: 17.6%;
+    position: absolute;
+    top: 1%;
+    float: left;
+    height: 261.5px;
+    font-size: 9rem;
+    background-color: black;
+    color: red;
+}
+
+.normal1{
+    /* border: .5px solid red; */
+    width: 99.2%;
+    height: 400px;
+    top: 15.8rem;
+    position: absolute;
+}
+
+.bold{
+    /* border: .5px solid red; */
+    width: 99.2%;
+    height: 200px;
+    top: 41rem;
+    position: absolute;
+}
+
+.normal2{
+    /* border: .5px solid yellow; */
+    width: 99.2%;
+    height: 400px;
+    top: 53.5rem;
+    position: absolute;
+}
+
+
+.links{
+    /* border: .5px solid silver; */
+    width: 23%;
+    margin-left: 75.3%;
+    position: absolute;
+    margin-top: 0px;
+    float: left;
+    height: 493px
+}
+
+.footer{
+    height: 50px;
+    top: 80rem;
+    /* border: .5px solid goldenrod; */
+    width: 99.2%;
+    background-color: red;
+    position: absolute;
+
+    }
