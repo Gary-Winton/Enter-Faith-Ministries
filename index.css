@@ -45,6 +45,16 @@ width: 99%;
     height: 67.67%;
 }
 
+.zoom{
+    transition: transform .1s;
+}
+
+.zoom:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.2); 
+}
+
 .links{
     /* border: 5px solid silver; */
     width: 23%;
@@ -63,3 +73,12 @@ width: 99%;
     background-color: red;
 
     }
+    .link{
+        height: 50px;
+        width: 50px;
+       }
+       
+       .links{
+           width: 100px;
+           height: 50px;
+       }
