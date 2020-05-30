@@ -31,10 +31,11 @@
 
 .bold{
     /* border: .5px solid red; */
-    width: 99.2%;
+    width: 40%;
     height: 200px;
     top: 31rem;
     position: absolute;
+    margin-left: 30%;
     color: forestgreen;
     font-weight: bolder;
 }
@@ -43,7 +44,7 @@
     /* border: .5px solid yellow; */
     width: 99.2%;
     height: 250px;
-    top: 43rem;
+    top: 44rem;
     position: absolute;
 }
 
