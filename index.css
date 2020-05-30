@@ -10,7 +10,7 @@ width: 99%;
 .logo{
     margin-right: auto;
     /* border: 2px solid purple; */
-    width: 13.2%;
+    width: 23%;
     height: 400px;
     float: left;
     position: absolute;
@@ -18,8 +18,8 @@ width: 99%;
 
 .heading{
     /* border: 2px solid yellow; */
-    width: 86%;
-    margin-left: 13.1%;
+    width: 75%;
+    margin-left: 23%;
     position: absolute;
     margin-top: 0px;
     float: left;

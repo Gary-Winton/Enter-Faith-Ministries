@@ -6,6 +6,7 @@
     float: left;
     position: absolute;
     top: 1%;
+    background-color: black;
 }
 
 .heading{
@@ -22,26 +23,29 @@
 }
 
 .normal1{
-    /* border: .5px solid red; */
+    /* border: .5px solid blue; */
     width: 99.2%;
-    height: 400px;
-    top: 15.8rem;
+    height: 315px;
+    top: 17rem;
     position: absolute;
 }
 
 .bold{
     /* border: .5px solid red; */
-    width: 99.2%;
-    height: 200px;
-    top: 41rem;
+    width: 40%;
+    height: 150px;
+    top: 37rem;
     position: absolute;
+    font: bolder;
+    color: forestgreen;
+    margin-left: 30%;
 }
 
 .normal2{
-    /* border: .5px solid yellow; */
+    /* border: .5px solid purple; */
     width: 99.2%;
-    height: 400px;
-    top: 53.5rem;
+    height: 100px;
+    top: 46.5rem;
     position: absolute;
 }
 
@@ -68,7 +72,7 @@
 
 .footer{
     height: 50px;
-    top: 80rem;
+    top: 53rem;
     /* border: .5px solid goldenrod; */
     width: 99.2%;
     background-color: red;

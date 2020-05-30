@@ -24,8 +24,8 @@
 .normal1{
     /* border: .5px solid red; */
     width: 99.2%;
-    height: 400px;
-    top: 15.8rem;
+    height: 220px;
+    top: 17rem;
     position: absolute;
 }
 
@@ -33,15 +33,17 @@
     /* border: .5px solid red; */
     width: 99.2%;
     height: 200px;
-    top: 41rem;
+    top: 31rem;
     position: absolute;
+    color: forestgreen;
+    font-weight: bolder;
 }
 
 .normal2{
     /* border: .5px solid yellow; */
     width: 99.2%;
-    height: 400px;
-    top: 53.5rem;
+    height: 250px;
+    top: 43rem;
     position: absolute;
 }
 
@@ -68,7 +70,7 @@
 
 .footer{
     height: 50px;
-    top: 80rem;
+    top: 60rem;
     /* border: .5px solid goldenrod; */
     width: 99.2%;
     background-color: red;
